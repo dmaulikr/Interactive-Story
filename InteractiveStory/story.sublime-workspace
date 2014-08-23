@@ -1,0 +1,341 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"R",
+				"Respaldo"
+			],
+			[
+				"Or",
+				"Ordenada"
+			],
+			[
+				"pivote",
+				"Pivote"
+			],
+			[
+				"Ordena",
+				"OrdenadaIzq"
+			],
+			[
+				"in",
+				"interseccion"
+			],
+			[
+				"I",
+				"Interseccion"
+			],
+			[
+				"elm",
+				"elimina_duplicados"
+			],
+			[
+				"elimin",
+				"elimina_duplicados"
+			],
+			[
+				"Resu",
+				"ResultadoParcial"
+			],
+			[
+				"Li",
+				"Limite"
+			],
+			[
+				"In",
+				"Invertida"
+			],
+			[
+				"Inver",
+				"InvertidaParcial"
+			],
+			[
+				"char",
+				"charptr"
+			],
+			[
+				"mys",
+				"mysql_connect"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"dic",
+				"dictionary"
+			],
+			[
+				"di",
+				"dictionary"
+			],
+			[
+				"func",
+				"function_full_name"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"selected_items":
+		[
+			[
+				"prolog",
+				"Set Syntax: Prolog"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/JohnnyLee/Projects/InteractiveStory/InteractiveStory/JLReadStoryViewController.m",
+		"/Users/JohnnyLee/Projects/Prolog/arbol.pro",
+		"/Users/JohnnyLee/Projects/Prolog/lab2jimmy.pl",
+		"/Users/JohnnyLee/Projects/Prolog/lab2.in",
+		"/Users/JohnnyLee/Projects/Prolog/lab2.pro",
+		"/Users/JohnnyLee/Projects/Prolog/lab1.pl",
+		"/Users/JohnnyLee/Projects/Prolog/lab2.pl",
+		"/Users/JohnnyLee/Desktop/trackchadatabase (1).sql",
+		"/Users/JohnnyLee/Desktop/edmondskarp.cpp",
+		"/Users/JohnnyLee/Projects/Prolog/parent.pl",
+		"/Users/JohnnyLee/Desktop/structsizetest.c",
+		"/Users/JohnnyLee/Documents/ME gustas cuando callas porque estás como ausente,",
+		"/Users/JohnnyLee/Projects/Examen2_Lee/Examen2_Lee/DetailViewController.h",
+		"/Users/JohnnyLee/Projects/Examen2_Lee/Examen2_Lee/BookDetailViewController.m",
+		"/Users/JohnnyLee/Projects/Examen2_Lee/Examen2_Lee/AuthorDetailViewController.m",
+		"/Users/JohnnyLee/Projects/Examen2_Lee/Examen2_Lee/DetailViewController.m",
+		"/Users/JohnnyLee/Desktop/harrypotter.txt",
+		"/Users/JohnnyLee/Projects/Examen2_Lee/Examen2_Lee/AuthorDetailViewController.h",
+		"/Users/JohnnyLee/Projects/Examen2_Lee/Examen2_Lee/BookDetailViewController.h",
+		"/Users/JohnnyLee/Projects/Examen2_Lee/Examen2_Lee/BookDetailTableViewController.h",
+		"/Users/JohnnyLee/Projects/Examen2_Lee/Examen2_Lee/BookCollectionViewDelegate.m",
+		"/Users/JohnnyLee/Projects/Examen2_Lee/Examen2_Lee/BookDetailTableViewController.m",
+		"/Users/JohnnyLee/Projects/Ejercicio_SQLite/vehiculos.sqlite",
+		"/Applications/MAMP/htdocs/pruebajsonenconde.php",
+		"/Applications/MAMP/htdocs/listarPersonas.php",
+		"/Applications/MAMP/htdocs/guardarPersona.php",
+		"/Applications/MAMP/htdocs/listaNombres.php",
+		"/Users/JohnnyLee/Projects/Examen2_Lee/Examen2_Lee/AuthorTableViewController.m",
+		"/Users/JohnnyLee/Projects/Examen2_Lee/Examen2_Lee/BookCollectionViewController.h",
+		"/Users/JohnnyLee/Projects/Examen2_Lee/Examen2_Lee/BookCollectionViewController.m",
+		"/Users/JohnnyLee/Desktop/database.sqlite",
+		"/Users/JohnnyLee/SkyDrive/Young Volcanoes.txt",
+		"/Users/JohnnyLee/algosimple/problemas/urls.py",
+		"/Users/JohnnyLee/algosimple/Temas/models.py",
+		"/Users/JohnnyLee/algosimple/Temas/views.py",
+		"/Users/JohnnyLee/algosimple/Temas/tests.py",
+		"/Users/JohnnyLee/algosimple/algosimple.sublime-project",
+		"/Users/JohnnyLee/algosimple/Problemas/views.py",
+		"/Users/JohnnyLee/algosimple/temas/urls.py",
+		"/Users/JohnnyLee/algosimple/Problemas/models.py",
+		"/Users/JohnnyLee/algosimple/algosimple/globals.py",
+		"/Users/JohnnyLee/algosimple/algosimple/views.py",
+		"/Users/JohnnyLee/algosimple/algosimple/urls.py",
+		"/Users/JohnnyLee/algosimple/templates/trabajo-en-equipo.html",
+		"/Users/JohnnyLee/algosimple/templates/header.html",
+		"/Users/JohnnyLee/algosimple/templates/tema.html",
+		"/Users/JohnnyLee/algosimple/Temas/admin.py",
+		"/Users/JohnnyLee/algosimple/Problemas/admin.py",
+		"/Users/JohnnyLee/algosimple/algosimple/settings.py",
+		"/Users/JohnnyLee/algosimple/algosimple/template_contants.py",
+		"/Users/JohnnyLee/algosimple/static/temas.css",
+		"/Users/JohnnyLee/algosimple/templates/about.html",
+		"/Users/JohnnyLee/algosimple/templates/content.html",
+		"/Users/JohnnyLee/algosimple/templates/main.html",
+		"/Users/JohnnyLee/algosimple/templates/footer.html",
+		"/Users/JohnnyLee/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/JohnnyLee/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Applications/MAMP/htdocs/wssampledb.sql",
+		"/Applications/MAMP/htdocs/guardarPersona.html",
+		"/Applications/MAMP/htdocs/listNombres.php",
+		"/Applications/MAMP/htdocs/ejemploWebService.html",
+		"/Applications/MAMP/htdocs/ejemploWebService.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"append",
+			"Z",
+			"M",
+			"L2",
+			"L1",
+			"Acumulada",
+			"L",
+			"T",
+			"pivoting",
+			"Acc",
+			"Sorted",
+			"List",
+			"Left",
+			"Ys",
+			"Xs",
+			"Rs",
+			"Ls",
+			"menores",
+			"interseccion",
+			"Lista",
+			"A",
+			"Lista",
+			",",
+			"fillFieldsAndTitle",
+			"\"",
+			" \n",
+			"null",
+			"\"\"",
+			"Problemas",
+			"import.*Problemas\\n",
+			"tema",
+			"Tema",
+			"function_full_name",
+			"select",
+			"colum",
+			"$query",
+			"query"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"loadFieldsAndNavigationItemTitleAndToolbar"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 182.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"readstory",
+				"InteractiveStory/JLReadStoryViewController.m"
+			],
+			[
+				"in",
+				"lab2.in"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 220.0,
+	"status_bar_visible": true
+}
